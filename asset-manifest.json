@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ramprits.github.io/csb-8z3ocu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ramprits.github.io/csb-8z3ocu/static/js/main.dc6515e4.chunk.js",
+    "main.js.map": "https://ramprits.github.io/csb-8z3ocu/static/js/main.dc6515e4.chunk.js.map",
+    "runtime-main.js": "https://ramprits.github.io/csb-8z3ocu/static/js/runtime-main.d5071fbb.js",
+    "runtime-main.js.map": "https://ramprits.github.io/csb-8z3ocu/static/js/runtime-main.d5071fbb.js.map",
+    "static/js/2.ba845a0c.chunk.js": "https://ramprits.github.io/csb-8z3ocu/static/js/2.ba845a0c.chunk.js",
+    "static/js/2.ba845a0c.chunk.js.map": "https://ramprits.github.io/csb-8z3ocu/static/js/2.ba845a0c.chunk.js.map",
+    "index.html": "https://ramprits.github.io/csb-8z3ocu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ramprits.github.io/csb-8z3ocu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ba845a0c.chunk.js.LICENSE.txt": "https://ramprits.github.io/csb-8z3ocu/static/js/2.ba845a0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5071fbb.js",
+    "static/js/2.ba845a0c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.dc6515e4.chunk.js"
+  ]
+}
